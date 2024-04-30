@@ -19,4 +19,4 @@ To use the bus reservation system:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your_username/bus-reservation-system.git
+   git clone https://github.com/jr-einstein/bus-reservation-system.git
